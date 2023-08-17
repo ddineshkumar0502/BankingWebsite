@@ -1,0 +1,198 @@
+/* Main page styling */
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+body{
+    background-color: white;
+}
+.navbar {
+    height: 60px;
+    background-color:rgb(9, 103, 175);
+    color: rgb(226, 221, 231);
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+#h122{
+    font-style: italic;
+}
+.logo {
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+.lan{
+    
+    background-color:rgb(9, 103, 175);
+    color: wheat;
+    border: none;
+    font-size: 17px;
+}
+.panel{
+    margin-top: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    background-color: #192660;
+    color: wheat;
+}
+/* .panel:hover{
+    color: white;
+} */
+a{
+    color: wheat;
+    text-decoration: none;  
+}
+.lan1{
+    border: none;
+    background-color: #192660;
+    color: wheat;
+    font-size: 17px;
+}
+.boip1{
+    background-size:cover ;
+    
+}
+.message-area{
+    display: inline;
+}
+.herosectio{
+    margin-top: 130px;
+    background-image: url("/media/independence_eng.png");
+    width: 55%;
+    height: 480px;
+    float: right;
+    margin-right: 100px;
+    border-bottom-right-radius: 150px;
+    background-size:cover ;
+}
+.message-indipendence{
+    float: left;
+    margin-top:230px ;
+    margin-left: 6%;
+    width: 400px;
+    height:440px ;
+    
+}
+#h21{
+    color: rgb(49, 48, 48);
+}
+#h12{
+    margin-top: 10px;
+    color: rgb(12, 102, 163);
+    font-size: 40px;
+}
+#p1{
+    margin-top: 10px;
+    font-size:20px ;
+    word-spacing: 6px;
+}
+.motto{
+    margin-top: 10px;
+    display: flex;
+    word-spacing: 6px;
+}
+.motto i{
+    margin-right: 5px;
+    color: rgb(12, 102, 163);
+}
+.help-desk{
+    margin-left: 950px;
+    position:fixed;
+
+}
+.help-desk i{
+    color: white;
+    font-size: 20px;  
+}
+#fast-icon-box{
+margin-top: -250px;
+}
+.icon-box{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(12, 102, 163);
+    margin-top: 10px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.service-of-boi{
+    margin-top: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    background: rgba(13, 13, 13, 0.747);
+    color: white;
+    height: 38%;
+    border-bottom-right-radius: 150px;
+}
+.service{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    margin-right: 25px;
+    font-size: 15px;
+}
+.service i{
+    font-size: 20px;
+    color: rgb(144, 194, 227);
+}
+#loan{
+    margin-right: 38px;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 15px;
+    font-size: 13px;
+    margin-right: 18px;
+}
+ul {
+    list-style-type: none;
+    line-height: 1.6;
+    color: rgb(215, 230, 240);
+  }
+
+.product-section{
+   margin-top: 60px;
+   margin-right: 80px;
+
+}
+
+
+
+
+
+
+
+
+/* Account section */
+.hiro-section2{
+    margin-top: 110px;
+    /* background-image: url("/media/loginboi.png"); */
+    background-size:cover;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-content: right;
+}

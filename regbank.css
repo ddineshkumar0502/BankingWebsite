@@ -1,0 +1,31 @@
+/* #dv2{
+    background-color: bisque;
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex; */
+    /* justify-content: center; */
+    /* align-items: center;
+    color: rgb(137, 85, 16);
+}
+#submit1{
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    font-weight: 400;
+    width: 120px;
+    border-radius: 3px;
+} */
